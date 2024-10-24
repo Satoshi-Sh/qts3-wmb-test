@@ -8,8 +8,8 @@ Wikidata QuickStatements is a powerful tool used for editing data in Wikidata, a
 ## Navigation
 - Quickstatements 3.0 brings back to the index page
 - Newbatch brings to the new batch page
-- Last batches can see the craeted batches
-- Git brings to the quickstatements3 github repositry.
+- Last batches can see the created batches
+- Git brings to the quickstatements3 github repository.
 - Login. It's not working but user's supposed to login with wikidata account.
 
 ### New Batch
